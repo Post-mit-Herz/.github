@@ -11,3 +11,22 @@ Nicht erst seit der Corona-Pandemie leiden viele Menschen in Deutschland unter E
 **Unsere Mission:** Jeder einsame Mensch soll Post mit Herz bekommen.
 
 Und du kannst uns dabei helfen: [postmitherz.org](https://postmitherz.org)
+
+## Techstack
+
+### Website
+
+Die Website wird mit Wordpress betrieben. Dabei kümmert sich Wordpress um die Verwaltung der Einrichtungen, der Schreiber:innen, der einzelnen Karten und jede Art von Content, der auf der Website zu sehen ist.
+
+### Services
+
+Eine API stellt verschiedene Daten bereit, die uns ermöglichen weitere Services zu bauen. Dazu gehören:
+- Eine iOS App, um unserem Support Team schnellen Zugriff auf die Daten zu geben.
+- Ein iOS Widget, das den Verlauf einer Aktion anzeigt.
+- Slackbots, die mit speziellen Commands Daten liefern.
+- Scripte, um Mails mit verschiedenen Daten zu verschicken
+- Scripte, um verschiedene Visualisierungen zu erstellen (Wie zB. die Deutschland-Karte oben)
+
+### Ausblick
+
+Aktuell bauen wir die Seite von Grund auf neu mit Typescript. Dabei haben wir Strapi als Backend/API. Das Frontend soll durch Astro erstellt werden. 
