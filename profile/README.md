@@ -1,6 +1,6 @@
 # Post mit Herz
 
-![Das Post mit Herz Team](https://raw.githubusercontent.com/Post-mit-Herz/.github/main/profile/pmh_we.png)
+![Das Post mit Herz Team](https://raw.githubusercontent.com/Post-mit-Herz/.github/main/profile/pmh_friends.png)
 
 Nicht erst seit der Corona-Pandemie leiden viele Menschen in Deutschland unter Einsamkeit. Manche haben keine Familie, niemanden, der sie anruft oder besucht. Sie leben zum Beispiel in Pflegeeinrichtungen, auf der Straße, in Wohnheimen oder in medizinischer Betreuung. Wir finden: Besonders in diesen harten Zeiten soll sich kein Mensch vergessen fühlen!
 
